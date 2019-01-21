@@ -3,7 +3,7 @@
  */
 'use strict'
 
-console.log("Bienvenue sur l'exercice 1, les méthodes possibles sont : min(a,b) / max (a,b) / compteur() / ");
+console.log("Bienvenue sur l'exercice 1, les méthodes possibles sont : min(a,b) / max (a,b) / compteur() / power(x,n) / powerRecur(x,n) ");
 
 /* exercice 1.1 */
 
