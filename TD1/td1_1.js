@@ -1,7 +1,7 @@
 /**
  * Created by canals on 25/01/2017.
  */
-'use strict'
+    'use strict'
 
 console.log("Bienvenue sur l'exercice 1, les méthodes possibles sont : min(a,b) / max (a,b) / compteur() / power(x,n) / powerRecur(x,n) ");
 
@@ -60,7 +60,7 @@ function power(x,n){
     return resultat;
 }
 
-/* exercice 1.3 */
+/* exercice 1.4 */
 
 function powerRecur(x,n){
     //gestion du cas où n = 0
